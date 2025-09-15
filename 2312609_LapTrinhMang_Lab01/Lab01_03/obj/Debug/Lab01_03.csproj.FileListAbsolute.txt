@@ -1,0 +1,10 @@
+Z:\2312609_LapTrinhMang_Lab01\Lab01_03\bin\Debug\Lab01_03.exe.config
+Z:\2312609_LapTrinhMang_Lab01\Lab01_03\bin\Debug\Lab01_03.exe
+Z:\2312609_LapTrinhMang_Lab01\Lab01_03\bin\Debug\Lab01_03.pdb
+Z:\2312609_LapTrinhMang_Lab01\Lab01_03\obj\Debug\Lab01_03.csprojAssemblyReference.cache
+Z:\2312609_LapTrinhMang_Lab01\Lab01_03\obj\Debug\Lab01_03.Form1.resources
+Z:\2312609_LapTrinhMang_Lab01\Lab01_03\obj\Debug\Lab01_03.Properties.Resources.resources
+Z:\2312609_LapTrinhMang_Lab01\Lab01_03\obj\Debug\Lab01_03.csproj.GenerateResource.cache
+Z:\2312609_LapTrinhMang_Lab01\Lab01_03\obj\Debug\Lab01_03.csproj.CoreCompileInputs.cache
+Z:\2312609_LapTrinhMang_Lab01\Lab01_03\obj\Debug\Lab01_03.exe
+Z:\2312609_LapTrinhMang_Lab01\Lab01_03\obj\Debug\Lab01_03.pdb
