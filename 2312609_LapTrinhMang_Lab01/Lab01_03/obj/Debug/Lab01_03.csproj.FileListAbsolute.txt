@@ -8,3 +8,13 @@ Z:\2312609_LapTrinhMang_Lab01\Lab01_03\obj\Debug\Lab01_03.csproj.GenerateResourc
 Z:\2312609_LapTrinhMang_Lab01\Lab01_03\obj\Debug\Lab01_03.csproj.CoreCompileInputs.cache
 Z:\2312609_LapTrinhMang_Lab01\Lab01_03\obj\Debug\Lab01_03.exe
 Z:\2312609_LapTrinhMang_Lab01\Lab01_03\obj\Debug\Lab01_03.pdb
+F:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab01\Lab01_03\bin\Debug\Lab01_03.exe.config
+F:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab01\Lab01_03\bin\Debug\Lab01_03.exe
+F:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab01\Lab01_03\bin\Debug\Lab01_03.pdb
+F:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab01\Lab01_03\obj\Debug\Lab01_03.csproj.AssemblyReference.cache
+F:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab01\Lab01_03\obj\Debug\Lab01_03.frmChinh.resources
+F:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab01\Lab01_03\obj\Debug\Lab01_03.Properties.Resources.resources
+F:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab01\Lab01_03\obj\Debug\Lab01_03.csproj.GenerateResource.cache
+F:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab01\Lab01_03\obj\Debug\Lab01_03.csproj.CoreCompileInputs.cache
+F:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab01\Lab01_03\obj\Debug\Lab01_03.exe
+F:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab01\Lab01_03\obj\Debug\Lab01_03.pdb
