@@ -5,3 +5,10 @@ Z:\2312609_LapTrinhMang_Lab01\Lab01_01\obj\Debug\Lab01_01.csprojAssemblyReferenc
 Z:\2312609_LapTrinhMang_Lab01\Lab01_01\obj\Debug\Lab01_01.csproj.CoreCompileInputs.cache
 Z:\2312609_LapTrinhMang_Lab01\Lab01_01\obj\Debug\Lab01_01.exe
 Z:\2312609_LapTrinhMang_Lab01\Lab01_01\obj\Debug\Lab01_01.pdb
+G:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab01\Lab01_01\bin\Debug\Lab01_01.exe.config
+G:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab01\Lab01_01\bin\Debug\Lab01_01.exe
+G:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab01\Lab01_01\bin\Debug\Lab01_01.pdb
+G:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab01\Lab01_01\obj\Debug\Lab01_01.csproj.AssemblyReference.cache
+G:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab01\Lab01_01\obj\Debug\Lab01_01.csproj.CoreCompileInputs.cache
+G:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab01\Lab01_01\obj\Debug\Lab01_01.exe
+G:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab01\Lab01_01\obj\Debug\Lab01_01.pdb

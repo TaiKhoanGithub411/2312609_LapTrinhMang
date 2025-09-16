@@ -1,0 +1,7 @@
+F:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab02\Lab02_HD1\bin\Debug\Lab02_HD1.exe.config
+F:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab02\Lab02_HD1\bin\Debug\Lab02_HD1.exe
+F:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab02\Lab02_HD1\bin\Debug\Lab02_HD1.pdb
+F:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab02\Lab02_HD1\obj\Debug\Lab02_HD1.csproj.AssemblyReference.cache
+F:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab02\Lab02_HD1\obj\Debug\Lab02_HD1.csproj.CoreCompileInputs.cache
+F:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab02\Lab02_HD1\obj\Debug\Lab02_HD1.exe
+F:\2312609_LapTrinhMang\2312609_LapTrinhMang_Lab02\Lab02_HD1\obj\Debug\Lab02_HD1.pdb

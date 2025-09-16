@@ -53,13 +53,13 @@
             this.label2.Location = new System.Drawing.Point(28, 98);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(137, 16);
+            this.label2.Size = new System.Drawing.Size(136, 16);
             this.label2.TabIndex = 1;
             this.label2.Text = "Thông tin giao thức IP";
             // 
             // txtTenMien
             // 
-            this.txtTenMien.Location = new System.Drawing.Point(189, 28);
+            this.txtTenMien.Location = new System.Drawing.Point(186, 27);
             this.txtTenMien.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.txtTenMien.Name = "txtTenMien";
             this.txtTenMien.Size = new System.Drawing.Size(311, 23);
