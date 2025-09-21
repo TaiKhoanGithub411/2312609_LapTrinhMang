@@ -24,6 +24,17 @@ namespace Lab02_HD2
             buff = Encoding.ASCII.GetBytes(hello);
             //Chuyển nội dung câu chào đến client
             clientSocket.Send(buff, 0, buff.Length, SocketFlags.None);
+            //Cải tiến để nhận dữ liệu từ client (mục III.6)
+            while(true)
+            {
+                buff = new byte[1024];
+                //Nhận dữ liệu từ client
+                int byteRecevie = clientSocket.Receive(buff, 0, buff.Length, SocketFlags.None);
+                //Chuyển byte sang chuỗi
+                string str = Encoding.ASCII.GetString(buff);
+                Console.WriteLine("Client: " + str);
+                clientSocket.Send(buff, 0, buff.Length, SocketFlags.None);
+            }
             Console.ReadLine();
         }
     }
