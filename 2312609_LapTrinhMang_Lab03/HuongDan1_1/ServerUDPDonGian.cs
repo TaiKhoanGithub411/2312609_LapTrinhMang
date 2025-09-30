@@ -12,7 +12,7 @@ namespace HuongDan1_1
             //SERVER UDP ĐƠN GIẢN
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.InputEncoding = System.Text.Encoding.UTF8;
-            IPEndPoint serverEndPoint = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 5000);//Điểm cuối mạng
+            IPEndPoint serverEndPoint = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 5000);//lắng nghe thông điệp từ IP và Port này
             Socket serverSocket = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);//Điểm giao tiếp với client
             serverSocket.Bind(serverEndPoint);//Liên kết server với end point
             Console.WriteLine("Chờ kết nối ...");
