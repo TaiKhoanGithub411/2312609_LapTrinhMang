@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT_ClientTCP", "BT_ClientTC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT_ServerTCP", "BT_ServerTCP\BT_ServerTCP.csproj", "{E86D6125-179D-44DD-9323-BA4BE90F49FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT_ServerUDP", "BT_ServerUDP\BT_ServerUDP.csproj", "{292976DE-2D88-4E18-A417-FE91E40E29F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT_ClientUDP", "BT_ClientUDP\BT_ClientUDP.csproj", "{E3BBA2EF-B35D-4C41-9C8D-74E805D6124C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{E86D6125-179D-44DD-9323-BA4BE90F49FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E86D6125-179D-44DD-9323-BA4BE90F49FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E86D6125-179D-44DD-9323-BA4BE90F49FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{292976DE-2D88-4E18-A417-FE91E40E29F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292976DE-2D88-4E18-A417-FE91E40E29F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292976DE-2D88-4E18-A417-FE91E40E29F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292976DE-2D88-4E18-A417-FE91E40E29F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3BBA2EF-B35D-4C41-9C8D-74E805D6124C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3BBA2EF-B35D-4C41-9C8D-74E805D6124C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3BBA2EF-B35D-4C41-9C8D-74E805D6124C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3BBA2EF-B35D-4C41-9C8D-74E805D6124C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
