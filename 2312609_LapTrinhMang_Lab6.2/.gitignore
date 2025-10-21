@@ -1,0 +1,39 @@
+# Tự động tạo thư mục và tệp tin bởi Visual Studio và MSBuild
+bin/
+obj/
+[Ee]xport/
+[Oo]utput/
+build/
+**/*.pdb
+**/*.suo
+**/*.user
+**/*.vspscc
+
+# Thư mục Visual Studio (nhưng không phải các tệp tin .suo và .user)
+.vs/
+
+# Thư mục Packages từ NuGet
+packages/
+
+# Tệp tin cấu hình và giải pháp của người dùng
+*.sln.user
+*.vcxproj.user
+*.csproj.user
+
+# Tệp tin tạm và tệp tin cache
+*.log
+*.tmp
+*.vspscc
+*.vssscc
+
+# Tệp tin được tạo ra bởi ReSharper
+_ReSharper.*/
+[Rr]e[Ss]harper.user
+[Rr]e[Ss]harper.*/
+[Rr]e[Ss]harper/
+
+# Tệp tin khác
+*.cache
+*.zip
+*.rar
+*.7z
