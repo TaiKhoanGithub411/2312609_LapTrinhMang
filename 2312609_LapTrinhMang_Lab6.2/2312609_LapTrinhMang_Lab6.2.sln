@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncSocketTCP", "..\231260
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncSocketClient", "..\2312609_LapTrinhMang_Lab6.1\AsyncSocketClient\AsyncSocketClient.csproj", "{6F90637E-0B46-4BA6-BAF3-49EA1A75469D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncSocketClient_Form", "AsyncSocketClient_Form\AsyncSocketClient_Form.csproj", "{F83F4731-E718-4CD9-8100-1979C91BB155}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6F90637E-0B46-4BA6-BAF3-49EA1A75469D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F90637E-0B46-4BA6-BAF3-49EA1A75469D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F90637E-0B46-4BA6-BAF3-49EA1A75469D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F83F4731-E718-4CD9-8100-1979C91BB155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83F4731-E718-4CD9-8100-1979C91BB155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83F4731-E718-4CD9-8100-1979C91BB155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83F4731-E718-4CD9-8100-1979C91BB155}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

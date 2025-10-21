@@ -15,7 +15,6 @@ namespace AsyncSocketTCP
         // Giá trị mặc định
         private const string DEFAULT_IP = "127.0.0.1";
         private const int DEFAULT_PORT = 9001;
-        public event EventHandler<MessageReceivedEventArgs> MessageReceived;
 
         IPAddress mServerIPAddress;
         int mServerPort;
@@ -184,6 +183,7 @@ namespace AsyncSocketTCP
                 clientStreamReader = new StreamReader(mClient.GetStream());
                 char[] buff = new char[64];
                 int readByteCount = 0;
+
                 while (isConnected)
                 {
                     readByteCount = await clientStreamReader.ReadAsync(buff, 0, buff.Length);
@@ -192,15 +192,12 @@ namespace AsyncSocketTCP
                         Console.WriteLine("Server disconnected.");
                         mClient.Close();
                         isConnected = false;
+                        Console.WriteLine("Connection closed. Press any key to exit...");
+                        Console.ReadKey();
+                        Environment.Exit(0);
                         break;
                     }
-
-                    string message = new string(buff, 0, readByteCount);
-                    Console.WriteLine($"Received bytes: {readByteCount} - Message: {message}");
-
-                    // Phát ra event khi nhận được tin nhắn
-                    MessageReceived?.Invoke(this, new MessageReceivedEventArgs(message, $"{mServerIPAddress}:{mServerPort}"));
-
+                    Console.WriteLine($"Received bytes: {readByteCount} - Message: {new string(buff)}");
                     Array.Clear(buff, 0, buff.Length);
                 }
             }
@@ -208,11 +205,17 @@ namespace AsyncSocketTCP
             {
                 Console.WriteLine($"Error receiving data: {ioEx.Message}");
                 isConnected = false;
+                Console.WriteLine("Connection lost. Press any key to exit...");
+                Console.ReadKey();
+                Environment.Exit(1);
             }
             catch (Exception excp)
             {
                 Console.WriteLine($"Error in receiving data: {excp.Message}");
                 isConnected = false;
+                Console.WriteLine("Press any key to exit...");
+                Console.ReadKey();
+                Environment.Exit(1);
             }
             finally
             {
